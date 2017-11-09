@@ -1,5 +1,7 @@
----
 title: two
-date: 2017-11-09 16:02:54
 tags:
+  - tag1
+categories:
+  - categories1
+date: 2017-11-09 16:02:00
 ---
